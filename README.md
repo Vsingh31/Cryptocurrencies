@@ -32,4 +32,10 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 
  
  Most of the cryptocurrencies are part of class #0 and #1.
-The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
+* **2D-Scatter plot with TotalCoinMined vs TotalCoinSupply**
+
+![2D_shape](https://user-images.githubusercontent.com/90277142/150712903-eeb97fbb-21f5-4ec2-afa0-f40b8d62ccf0.png)
+
+
+Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
+
