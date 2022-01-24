@@ -22,4 +22,14 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 * **Visualizing Cryptocurrencies Results**
   **3D-Scatter plot with clusters**
   
-  ![3D_Shape](https://user-images.githubusercontent.com/90277142/150712170-7d45d702-b275-4e8c-91f8-f099b8118c02.png)
+ ![3D_Shape](https://user-images.githubusercontent.com/90277142/150712170-7d45d702-b275-4e8c-91f8-f099b8118c02.png)
+ 
+ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+ 
+ * **Tradable Cryptocurrencies Table**
+ 
+ ![table](https://user-images.githubusercontent.com/90277142/150712702-efd2db10-70b7-49ea-85e2-0e75c4faeccb.png)
+
+ 
+ Most of the cryptocurrencies are part of class #0 and #1.
+The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
