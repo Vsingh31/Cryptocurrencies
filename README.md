@@ -7,4 +7,7 @@
    * Preprocessing the database,
    * Reducing the data dimension using Principal Component Analysis,
    * Clustering cryptocurrencies using K-Means,
-   * Visualizing classification results with 2D and 3D scatter plots.  nn
+   * Visualizing classification results with 2D and 3D scatter plots. 
+
+### Results:
+
