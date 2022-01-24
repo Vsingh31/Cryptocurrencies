@@ -39,3 +39,6 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 
 Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
 
+#### Summary
+We have identified the classification of 532 cryptocurrencies based on similarities of their features.
+Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
